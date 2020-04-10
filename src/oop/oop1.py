@@ -18,7 +18,7 @@
 #
 # Put a comment noting which class is the base class
 
-# "The Base class is "Vehicle"
+# "The Base class is "Vehicle".
 
 class Vehicle:
     pass
